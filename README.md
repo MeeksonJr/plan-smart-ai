@@ -39,7 +39,7 @@ PlanSmart AI is an innovative web application that leverages artificial intellig
 Clone the repository:
 
 ```bash
-git clone https://github.com/MeeksonJr/PlanSmart-ai.git
+git clone [https://github.com/MeeksonJr/PlanSmart-ai.git](https://github.com/MeeksonJr/plan-smart-ai.git)
 cd plansmart-ai
 Install dependencies:
 
